@@ -1,6 +1,7 @@
-# HomeTaskSix
+# Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This project shows the usage of various functionalities of angular such as property binding, event binding, router link, creating component, creating service etc.
 
 ## Development server
 
